@@ -30,8 +30,7 @@ A multi-agent RAG assistant (PostgreSQL + pgvector, n8n) letting an insurance cl
 
 | Project | What it answers | Stack |
 |---|---|---|
-| [TripAdvisor Sentiment Analysis](https://github.com/karendzn/TripAdvisor-Sentiment-Analysis) | What drives positive and negative hotel reviews? | Python, NLP |
-| *More coming soon — each project goes from a business question to a recommendation.* | | |
+| [TripAdvisor Sentiment Analysis](https://github.com/karendzn/TripAdvisor-Sentiment-Analysis) | Detecting unhappy hotel customers from their reviews *(rework in progress)* | Python, NLP | | | |
 
 ---
 
