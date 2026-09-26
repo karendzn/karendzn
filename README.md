@@ -1,6 +1,6 @@
 ## Hi, I'm Karen 👋
 
-**Data Consultant @ Orange Business** · M2 *Innovation, Marchés et Science des Données* @ Université Paris-Saclay
+**Data Consultant @ Orange Business** · **M2 *Innovation, Marchés et Science des Données* @ Université Paris-Saclay**
 
 I work at the bridge between business teams and data: understanding what people actually need, building data they can trust, and turning it into decisions.
 I started as a Data Analyst, moved into Data Engineering, and I'm now exploring Data Science — because the best answers usually need a bit of all three.
